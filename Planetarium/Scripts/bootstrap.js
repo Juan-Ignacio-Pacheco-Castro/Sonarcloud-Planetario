@@ -4054,7 +4054,7 @@
 
       this._activate(this._element, listElement);
 
-      var compvare = function complete() {
+      var complete = function complete() {
         var hiddenEvent = $__default['default'].Event(EVENT_HIDDEN$3, {
           relatedTarget: _this._element
         });
