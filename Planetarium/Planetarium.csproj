@@ -148,19 +148,33 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Handlers\AuthHandler.cs" />
+    <Compile Include="Handlers\CouponHandler.cs" />
     <Compile Include="Handlers\DataAnalyticsHandler.cs" />
     <Compile Include="Handlers\DatabaseClassificationsHandler.cs" />
     <Compile Include="Handlers\DatabaseHandler.cs" />
     <Compile Include="Handlers\EducationalActivityHandler.cs" />
+    <Compile Include="Handlers\EmployeesHandler.cs" />
+    <Compile Include="Handlers\RssFeedHandler.cs" />
+    <Compile Include="Handlers\VisitorHandler.cs" />
     <Compile Include="Models\CelestialBody.cs" />
     <Compile Include="Models\ContentParser.cs" />
+    <Compile Include="Models\CouponModel.cs" />
     <Compile Include="Models\EducationalActivityEventModel.cs" />
     <Compile Include="Models\EducationalActivityModel.cs" />
     <Compile Include="Models\EmployeeModel.cs" />
+    <Compile Include="Models\EventModel.cs" />
+    <Compile Include="Models\ItemAdvanceModel.cs" />
+    <Compile Include="Models\ItemModel.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\QuizModel.cs" />
     <Compile Include="Models\RegisterModel.cs" />
+    <Compile Include="Models\StreamingModel.cs" />
     <Compile Include="Models\TicketAdvanceModel.cs" />
     <Compile Include="Models\TicketModel.cs" />
     <Compile Include="Models\TxtContentParser.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Models\VisitorModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
