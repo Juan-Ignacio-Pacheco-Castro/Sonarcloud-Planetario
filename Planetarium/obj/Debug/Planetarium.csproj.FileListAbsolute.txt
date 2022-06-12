@@ -90,3 +90,7 @@ C:\Users\valle\source\repos\Sonarcloud-Planetario\Planetarium\bin\Microsoft.Code
 C:\Users\valle\source\repos\Sonarcloud-Planetario\Planetarium\obj\Debug\Planetarium.csproj.CopyComplete
 C:\Users\valle\source\repos\Sonarcloud-Planetario\Planetarium\obj\Debug\Planetarium.dll
 C:\Users\valle\source\repos\Sonarcloud-Planetario\Planetarium\obj\Debug\Planetarium.pdb
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Sonarcloud-Planterio\Planetarium\obj\Debug\Planetarium.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Sonarcloud-Planterio\Planetarium\obj\Debug\Planetarium.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Sonarcloud-Planterio\Planetarium\obj\Debug\Planetarium.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Sonarcloud-Planterio\Planetarium\obj\Debug\Planetarium.pdb
